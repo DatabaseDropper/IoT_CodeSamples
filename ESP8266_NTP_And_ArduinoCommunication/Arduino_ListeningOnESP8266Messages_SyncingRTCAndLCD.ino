@@ -8,7 +8,7 @@ int counter = 0;
 
 void handleDate(String date)
 {
-	// Parsers "Sunday-2022-4-24" in a poor way
+    // Parsers "Sunday-2022-4-24" in a poor way
     String delimiter = "-";
     size_t pos = 0;
     String token;
@@ -77,7 +77,7 @@ void handleDate(String date)
 
 void handleHour(String hour)
 {
-	// Parsers "08:23:45" in a poor way
+    // Parsers "08:23:45" in a poor way
     String delimiter = ":";
     size_t pos = 0;
     String token;
