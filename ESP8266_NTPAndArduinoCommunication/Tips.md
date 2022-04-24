@@ -4,5 +4,6 @@ In order to compile for ESP8266 you need to go to th File -> Preferences and add
 
 ![obraz](https://user-images.githubusercontent.com/47637776/164962840-1d2a0aae-8533-4afd-a95c-145a53a2df53.png)
 
- 
+Then select the right board
+
 ![obraz](https://user-images.githubusercontent.com/47637776/164961244-48bc1001-69e8-4956-b733-f59733fc9330.png)
